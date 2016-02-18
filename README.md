@@ -2,7 +2,9 @@
 初始化工程
 # Toolbar
 
-#### 自定义toolbar，解决toolbar在PAD上适配的问题
+#### 使用自定义drawable实现底部菜单滑动的功能。支持两种方式。
+*不同滑动*
+*仿微信滑动*
 
 
 <img src="/shapshot/shapshot.gif" alt="alt text" style="width:200;height:200">
