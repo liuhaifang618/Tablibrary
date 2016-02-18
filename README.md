@@ -12,36 +12,42 @@
 <img src="/shapshot/shapshot.gif" alt="alt text" style="width:200;height:200">
 
 #Usage
-1.  Bird
-2.  McHale
-3.  Parish
 
 1. 添加xml布局.
 
 ```xml
-    <com.safewaychinay.toolbar.widget.Toolbar
-        android:id="@+id/toolbar"
-        android:background="@android:color/black"
+    <com.safewaychina.tabmenu.TabLayout
+        android:id="@+id/tab_layout"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />                
+        android:layout_height="55dp"
+        android:background="#2196F3"
+        app:tab_filter_color="#FFE0B2"
+        app:tab_scope="5dp"
+        app:tab_silidingMode="tab_selector"
+        app:tab_text_default_color="@android:color/white" />               
 ```
 
-2.  添加xml布局111.
+2.  设置布局.
 
 ```java
-        drawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
-        toolbar = (Toolbar) findViewById(R.id.toolbar);
-        drawerLayout.setScrimColor(Color.parseColor("#66000000"));
-        toolbar.setTitle("营养");
-        toolbar.addMenu(R.menu.menu_main);
-        toolbar.setOnMenuClickLisnter(new Toolbar.OnMenuClickLisnter() {
-            @Override
-            public void onMenuClick(int id) {
-                Toast.makeText(getApplicationContext(), "adsadad", Toast.LENGTH_SHORT).show();
-            }
-        });
-        ToolbarDrawerToggle toggle = new ToolbarDrawerToggle(drawerLayout, toolbar);
-        toggle.syncState();
+       TabItem item = new TabItem("消息", R.drawable.dr_msg, true, true);
+        TabItem item2 = new TabItem("任务", R.drawable.dr_task, true, true);
+        TabItem item3 = new TabItem(false, "", R.drawable.dr_menu_check, false);
+        TabItem item4 = new TabItem("应用", R.drawable.dr_index, true);
+        TabItem item5 = new TabItem("发现", R.drawable.dr_found, true);
+        //TabItem item6 = new TabItem("设置",R.drawable.dr_setting);
+        items = new ArrayList();
+        items.add(item);
+        items.add(item2);
+        items.add(item3);
+        items.add(item4);
+        items.add(item5);
+        
+        DeafultTabAdapter adapter = new DeafultTabAdapter(this.getApplicationContext(), items);
+        tabLayout.setAdapter(adapter);
+        tabLayout.setFragmentAdapter(adapter, getSupportFragmentManager(), mTabs, R.id.menu_fragment);
+        tabLayout.setCurrentFragment(isNotificationClick(getIntent()) ? 0 : 3);
+        tabLayout.setSelectValidator(new UserAuthValidator());
 ```
 
  
