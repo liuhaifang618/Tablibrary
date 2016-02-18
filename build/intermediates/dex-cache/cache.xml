@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/pre-dexed/debug/classes-a6f04c6d2d9407c4dd79cd39f265a8701431fa47.jar" />
+    </item>
+    <item
+        jar="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/exploded-aar/com.safewaychina.android/nosafebasecommon/1.0-SNAPSHOT/jars/libs/httpmime-4.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d34b163e52a9727101aced60775d51c5085390a1">
+        <dex dex="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/pre-dexed/debug/httpmime-4.1.1-461188940c64168aa15e05763c5d54da20d7cf5c.jar" />
+    </item>
+    <item
+        jar="/Users/fangzai/soft/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-dbe683578ae761ee83690982e92d4075b14d490a.jar" />
+    </item>
+    <item
+        jar="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/exploded-aar/com.safewaychina.android/nosafebasecommon/1.0-SNAPSHOT/jars/libs/fastjson-1.1.38.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1edccd37c7a288cce12bd1be1831ab6f8ed8fa12">
+        <dex dex="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/pre-dexed/debug/fastjson-1.1.38-cac0486056aeb4038b715afc177d21ce9f52f1ef.jar" />
+    </item>
+    <item
+        jar="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/exploded-aar/com.safewaychina.android/nosafebasecommon/1.0-SNAPSHOT/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2756dbe76d5bc8a22ad03487d674d15022f32f74">
+        <dex dex="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/pre-dexed/debug/classes-23e472a8ebce6bdf79aa33bc2da44c3dae3257c1.jar" />
+    </item>
+    <item
+        jar="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-64bc34fb49e9cb4169d6ba8bad15d0733455e356.jar" />
+    </item>
+    <item
+        jar="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/pre-dexed/debug/classes-c57a11a4882bae889245f545d4fbe16dc4a05978.jar" />
+    </item>
+    <item
+        jar="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/exploded-aar/com.safewaychina.android/nosafebasecommon/1.0-SNAPSHOT/jars/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-e037662fd868c5bfc93a48be3341c4b1029c9bcf.jar" />
+    </item>
+    <item
+        jar="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/exploded-aar/com.safewaychina.android/nosafebasecommon/1.0-SNAPSHOT/jars/libs/ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/pre-dexed/debug/ormlite-android-4.48-4142f9a2bbf63650ab3c824856b81ddc909daac1.jar" />
+    </item>
+    <item
+        jar="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/pre-dexed/debug/classes-f5a5d06bb8aa7cae67085e8a96ec91b9355254f6.jar" />
+    </item>
+    <item
+        jar="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/exploded-aar/com.safewaychina.android/nosafebasecommon/1.0-SNAPSHOT/jars/libs/commons-io-2.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="83b5b8a7ba1c08f9e8c8ff2373724e33d3c1e22a">
+        <dex dex="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/pre-dexed/debug/commons-io-2.2-5ec6a4df2d78362d1cd70f23f1be2dd3d88de030.jar" />
+    </item>
+    <item
+        jar="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/exploded-aar/com.safewaychina.android/nosafebasecommon/1.0-SNAPSHOT/jars/libs/ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/pre-dexed/debug/ormlite-core-4.48-a67a283e2d2bc648264249a4bf8c7a50eef2a47b.jar" />
+    </item>
+    <item
+        jar="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/exploded-aar/com.safewaychina.android/nosafebasecommon/1.0-SNAPSHOT/jars/libs/org.apache.http.legacy.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="/Users/fangzai/Desktop/common/tablib/app/build/intermediates/pre-dexed/debug/org.apache.http.legacy-b3057af1fe126f7845d829da4a89e0f8b23be4db.jar" />
+    </item>
+
+</items>

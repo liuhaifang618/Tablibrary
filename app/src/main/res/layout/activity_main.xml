@@ -1,0 +1,31 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--<com.safewaychina.tabmenu.TabViewPager-->
+        <!--android:id="@+id/id_viewpager"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="0dp"-->
+        <!--android:layout_weight="1" >-->
+    <!--</com.safewaychina.tabmenu.TabViewPager>-->
+
+    <FrameLayout
+        android:id="@+id/id_framelayout"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" >
+    </FrameLayout>
+
+
+    <com.safewaychina.tabmenu.TabLayout
+        android:id="@+id/tb"
+        android:layout_width="match_parent"
+        app:tab_silidingMode="tab_selector"
+        app:tab_scope = "5dp"
+        android:background="@android:color/darker_gray"
+        android:layout_height="50dp" />
+
+
+</LinearLayout>
