@@ -3,8 +3,10 @@
 # Toolbar
 
 #### 使用自定义drawable实现底部菜单滑动的功能。支持两种方式。
-*不同滑动
-*仿微信滑动
+<ol>
+<li>普通滑动方式</li>
+<li>仿微信滑动方式</li>
+</ol>
 
 
 <img src="/shapshot/shapshot.gif" alt="alt text" style="width:200;height:200">
