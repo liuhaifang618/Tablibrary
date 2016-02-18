@@ -5,7 +5,7 @@
 #### 自定义toolbar，解决toolbar在PAD上适配的问题
 
 
-<img src="/snapshot/shapshot.gif" alt="alt text" style="width:200;height:200">
+<img src="/shapshot/shapshot.gif" alt="alt text" style="width:200;height:200">
 
 #Usage
 1.  Bird
